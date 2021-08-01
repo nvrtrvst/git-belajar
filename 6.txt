@@ -9,3 +9,6 @@ Git status  : untuk melihat status file
 git init    : untuk menginisialisasi repository dalam folder
 git merge   : untuk menggabungkan dua atau lebih branch berdasarkan commit terakhir
 git stash   : digunakan saat ingin berpindah branch namun terdapat file yang belum di commit
+Git Checkout: untuk menukar branch aktif dengan branch yang dipilih
+Git Config  : untuk mengatur konfigurasi tertensu sesuai keinginan pengguna
+Git remote  : membuat user terhubung ke remote repository

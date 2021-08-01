@@ -1,5 +1,5 @@
 Peran PO, SM dan Develop
 
-Product Owner : merepresentasikan user / stakeholder, menjembatani user dan developer. Product Owner bertugas mengembangkan produk pada tiap sprint yang dirancang.
-Development Team : mengembangkan product, technical specification dan harus memperhatikan kualitas pada setiap sprint yang diselesaikan
-Scrum master : memastikan jalannya scrum pada suatu tim maupun organisasi, dgn cara mempimpin daily standup agar blocker(gangguan) dapat diatasi dan mampu memastikan tingkat efektivitas dan produktivitas tim
+Product Owner : merepresentasikan user / stakeholder, menjembatani user dan developer. Product Owner bertugas mengembangkan produk pada tiap sprint yang dirancang, peran yang bertanggung jawab terhadap jalannya potensi bisnis yang dikembangkan.
+Development Team : mengembangkan product, technical specification dan harus memperhatikan kualitas pada setiap sprint yang diselesaikan, membuat perencanaan pelaksanaan sprint.
+Scrum master : memastikan jalannya scrum pada suatu tim maupun organisasi, dgn cara mempimpin daily standup agar blocker(gangguan) dapat diatasi dan mampu memastikan tingkat efektivitas dan produktivitas tim, meningkatkan efisiensi kerja antar tim.

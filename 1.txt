@@ -5,3 +5,4 @@ Alasan penggunaan design thinking untuk mencari solusi
 4. Lebih cepat dari segi waktu
 5. Inovasi / ide yang langsung dirancang
 6. Bisa disimpan dalam prototype low fid untuk menangkap maksud dari inovasi atau ide
+7. Dapat digunakan sebagai dasar selama proses brainstorming
