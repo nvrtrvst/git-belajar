@@ -4,3 +4,5 @@ Git Fech : tidak akan langsung masuk workspace
 Git pull dan git fetch sama - sama digunakan untuk mensinkronkan atau memperbarui repository lokal.
 Namun, perintah git pull akan mengambil commit terbaru lalu otomatis menggabungkan (merge) dengan branch yang aktif.
 Sedangkan git fetch akan mengambil commit saja. Perintah git fetch tidak akan langsung melakukan merge.
+Git fetch   : mengunduh dari jarak jauh ke repository lokal
+Git Pull    : mengunduh dan menggabungkannya sekaligus
