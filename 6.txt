@@ -1,11 +1,8 @@
-git add     : menambahkan file ke repository lokal
-git clone   : cloning dari reposirory remote ke lokal
-git commit  : menyimpan file
-git push    : upload file ke repository remote
-Git Pull    : mengambil kode dari repository 
-Git Fetch   : tidak akan langsung masuk workspace
-Git Branch  : untuk melihat ada branch apa saja
-Git status  : untuk melihat status file 
-git init    : untuk menginisialisasi repository dalam folder
-git merge   : untuk menggabungkan dua atau lebih branch berdasarkan commit terakhir
-git stash   : digunakan saat ingin berpindah branch namun terdapat file yang belum di commit
+git add : menambahkan file ke repository lokal
+git clone : cloning dari reposirory remote ke lokal
+git commit : menyimpan file
+git push : upload file ke repository remote
+Git Pull : mengambil kode dari repository 
+Git Fech : tidak akan langsung masuk workspace
+Git Branch : untuk melihat ada branch apa saja
+Git status : untuk melihat status file 
