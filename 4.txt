@@ -1,2 +1,1 @@
-VERSION CONTROL SYSTEM
-digunakan agar memudahkan developer dalam berkolaborasi saat pengerjaan proyek, lebih terstruktur dan tercatat (setiap code yang dirubah atau ditambahkan)
+Agar lebih mudah dalam koordinasi walaupun jarak jauh, lebih terstruktur dan tercatat (setiap code yang dirubah atau ditambahkan)
