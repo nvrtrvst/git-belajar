@@ -1,0 +1,2 @@
+Git Pull : mengambil kode dari repository 
+Git Fech : tidak akan langsung masuk workspace

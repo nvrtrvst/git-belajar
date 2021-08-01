@@ -1,0 +1,3 @@
+Product Owner : merepresentasikan user / stakeholder, menjembatani user dan developer
+Development Team : mengembangkan product, technical specification dan harus memperhatikan kualitas pada setiap sprint yang diselesaikan
+Scrum master : memastikan jalannya scrum pada suatu tim maupun organisasi, dgn cara mempimpin daily standup agar blocker(gangguan) dapat diatasi
