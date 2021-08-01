@@ -1,4 +1,4 @@
-Menurut saya, 
+Alasan penggunaan design thinking untuk mencari solusi
 1. Agar bisa mengetahui ux dari sisi pengguna
 2. Dapat diterapkan dalam develop apapun
 3. Lebih efisien dari segi biaya, karena hanya berasumsi

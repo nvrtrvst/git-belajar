@@ -1,1 +1,2 @@
-Scrum adalah sebuah kerangka kerja untuk developtment suatu produk agar lebih terstruktur
+SCRUM EVENTS
+Scrum adalah sebuah kerangka kerja untuk developtment suatu produk agar lebih terstruktur.
